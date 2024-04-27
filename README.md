@@ -38,4 +38,4 @@ Fishcake is a Web3 platform that empowers local businesses and consumers to inte
 
 All information contained within these documents is subject to change as Fishcake evolves. Fishcake retains the ultimate right to explain, modify, and update the content as necessary to reflect the ongoing development of the platform.
 
-For more information and updates, visit our [official website](https://www.fishcake.io) (https://www.fishcake.org).
+For more information and updates, visit our [official website] (https://www.fishcake.io)(https://www.fishcake.org).
