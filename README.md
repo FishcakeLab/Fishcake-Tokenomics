@@ -8,7 +8,7 @@ Below are the key documents available in this repository. Each document is desig
 
 ### 1. Fishcake Tokenomics Whitepaper
 Explore the detailed structure of Fishcake Coin (FCC) and understand the underlying economic model of our platform. This document is essential for anyone interested in the financial mechanics and incentives of the Fishcake ecosystem.
-- [Fishcake Tokenomics Whitepaper (PDF)] (https://github.com/FishcakeLab/Fishcake-Tokenomics/blob/main/Fishcake%20EventFi%20Tokenomic%20Whitepaper.pdf))
+- [Fishcake Tokenomics Whitepaper (PDF)](https://github.com/FishcakeLab/Fishcake-Tokenomics/blob/main/Fishcake%20EventFi%20Tokenomic%20Whitepaper.pdf))
 
 ### 2. Fishcake Introduction
 Get an introduction to the Fishcake platform, including its purpose, the problems it solves, and how it benefits both businesses and consumers within the decentralized economy.
