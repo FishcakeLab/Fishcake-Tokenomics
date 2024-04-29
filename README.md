@@ -7,7 +7,7 @@ Welcome to the official repository for Fishcake project documentation! Here, you
 Below are the key documents available in this repository. Each document is designed to provide insights into different aspects of the Fishcake platform:
 
 ### 1. Fishcake Tokenomics Whitepaper
-Explore the detailed structure of Fishcake Coin (FCC) and understand the underlying economic model of our platform. This document is essential for anyone interested in the financial mechanics and incentives of the Fishcake ecosystem.
+Explore the detailed structure of Fishcake Coin (FCC) and understand the underlying economic model of our platform, includes the mechanism of Redemption pool and Mining pool design. This document is essential for anyone interested in the financial mechanics and incentives of the Fishcake ecosystem.
 - [Fishcake Tokenomics Whitepaper (PDF)](https://github.com/FishcakeLab/Fishcake-Tokenomics/blob/main/Fishcake%20EventFi%20Tokenomic%20Whitepaper.pdf))
 
 ### 2. Fishcake Introduction
@@ -44,3 +44,6 @@ Fishcake is a Web3 platform that empowers local businesses and consumers to inte
 All information contained within these documents is subject to change as Fishcake evolves. Fishcake retains the ultimate right to explain, modify, and update the content as necessary to reflect the ongoing development of the platform.
 
 For more information and updates, visit our [official website](https://www.fishcake.org) Or [Dapp website](https://www.fishcake.org).
+
+## Fishcake- Make Token Values Real 
+![FCC-removebg-preview](https://github.com/FishcakeLab/Fishcake-Tokenomics/assets/138396273/3deec617-7fae-430b-81ae-0381597040ff)
