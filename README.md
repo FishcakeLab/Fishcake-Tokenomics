@@ -8,7 +8,7 @@ Welcome to the official repository for Fishcake project documentation! Here, you
 
 Fishcake is an open-source Web3 initiative dedicated to enhancing local economies through blockchain. With smart contracts and front-end code open for public review and audited for trust and transparency, we empower businesses and customers to interact directly.
 
-Highlights:
+**Highlights**:
 
 -**Redemption Pool**: Ensuring token stability, our redemption pool maintains a minimum floor price, providing FCC holders with confidence in the token's enduring value.
 
