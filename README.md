@@ -10,9 +10,9 @@ Fishcake is an open-source Web3 initiative dedicated to enhancing local economie
 
 **Highlights**:
 
--**Redemption Pool**: Ensuring token stability, our redemption pool maintains a minimum floor price, providing FCC holders with confidence in the token's enduring value.
+-**Redemption Pool**:our redemption pool maintains a minimum floor price, providing FCC holders with confidence in the token's enduring value, join Fishcake ecosystem as a real shareholder. 
 
--**Mining Feature**: Engage in the ecosystem and receive FCC tokens through participation – a dynamic incentive system supporting growth and sustainability.
+-**Mining Feature**: Engage in the ecosystem and mine FCC tokens through participation – a dynamic incentive system supporting growth and sustainability.
 
 Fishcake is where technology meets community, making token values real and tangible for everyone.
 
