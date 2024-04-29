@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Fishcake-Labs/image-/blob/main/banner1.png"/>
+</p>
+
 # Fishcake Project Documentation
 
 Welcome to the official repository for Fishcake project documentation! Here, you will find comprehensive guides and whitepapers that detail the workings of the Fishcake ecosystem, including our innovative tokenomics, platform functionality, and NFT utilization.
