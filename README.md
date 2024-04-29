@@ -46,4 +46,9 @@ All information contained within these documents is subject to change as Fishcak
 For more information and updates, visit our [official website](https://www.fishcake.org) Or [Dapp website](https://www.fishcake.org).
 
 ## Fishcake- Make Token Values Real 
-![FCC-removebg-preview](https://github.com/FishcakeLab/Fishcake-Tokenomics/assets/138396273/3deec617-7fae-430b-81ae-0381597040ff)
+<p align="center">
+  <img src="![fiicon-removebg-preview](https://github.com/FishcakeLab/Fishcake-Tokenomics/assets/138396273/fe0ced58-3624-4719-a23d-97e0c7be8822)" alt="Fishcake logo"/>
+</p>
+
+
+
