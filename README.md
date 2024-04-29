@@ -7,8 +7,8 @@
 Welcome to the official repository for Fishcake project documentation! Here, you will find comprehensive guides and whitepapers that detail the workings of the Fishcake ecosystem, including our innovative tokenomics, platform functionality, and NFT utilization.
 Fishcake is an open-source Web3 initiative dedicated to enhancing local economies through blockchain. With smart contracts and front-end code open for public review and audited for trust and transparency, we empower businesses and customers to interact directly.
 Highlights:
--Redemption Pool: Ensuring token stability, our redemption pool maintains a minimum floor price, providing FCC holders with confidence in the token's enduring value.
--Mining Feature: Engage in the ecosystem and receive FCC tokens through participation – a dynamic incentive system supporting growth and sustainability.
+-**Redemption Pool**: Ensuring token stability, our redemption pool maintains a minimum floor price, providing FCC holders with confidence in the token's enduring value.
+-**Mining Feature**: Engage in the ecosystem and receive FCC tokens through participation – a dynamic incentive system supporting growth and sustainability.
 Fishcake is where technology meets community, making token values real and tangible for everyone.
 
 ## Documents Overview
