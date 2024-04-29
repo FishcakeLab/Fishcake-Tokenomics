@@ -47,8 +47,9 @@ For more information and updates, visit our [official website](https://www.fishc
 
 ## Fishcake- Make Token Values Real 
 <p align="center">
-  <img src="![fiicon-removebg-preview](https://github.com/FishcakeLab/Fishcake-Tokenomics/assets/138396273/fe0ced58-3624-4719-a23d-97e0c7be8822)" alt="Fishcake logo"/>
+  <img src="![fiicon-removebg-preview](https://github.com/FishcakeLab/Fishcake-Tokenomics/assets/138396273/e1820e68-d2a5-4dc6-a356-352f32de4eb6)" alt="Fishcake logo"/>
 </p>
+
 
 
 
