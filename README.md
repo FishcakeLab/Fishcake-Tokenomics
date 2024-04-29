@@ -43,6 +43,7 @@ This repository is structured to help you find information efficiently:
 
 Fishcake is a Web3 platform that empowers local businesses and consumers to interact directly through blockchain-based campaigns, eliminating intermediaries and fostering a transparent, decentralized market environment.
 -  [official website](https://www.fishcake.org)
+-  [Dapp website](https://www.fishcake.io)
 -  [Dapp website](https://www.fishcake.org)
 -  [Discord Channel ](https://discord.gg/hbHBW5Jq2s)
 -  [X](https://twitter.com/fishcake_labs)
@@ -57,7 +58,7 @@ Fishcake is a Web3 platform that empowers local businesses and consumers to inte
 
 All information contained within these documents is subject to change as Fishcake evolves. Fishcake retains the ultimate right to explain, modify, and update the content as necessary to reflect the ongoing development of the platform.
 
-For more information and updates, visit our [official website](https://www.fishcake.org) Or [Dapp website](https://www.fishcake.org).
+For more information and updates, visit our [official website](https://www.fishcake.org).
 
 ## Fishcake- Make Token Values Real 
 <p align="center">
