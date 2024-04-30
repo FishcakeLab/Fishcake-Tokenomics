@@ -32,6 +32,14 @@ Get an introduction to the Fishcake platform, including its purpose, the problem
 Learn about the Fishcake NFT passes, their roles within the platform, and how they enhance user interaction and rewards. This guide is crucial for understanding how to engage with and benefit from NFTs on the Fishcake platform.
 - [NFT Pass Introduction (PDF)](https://github.com/FishcakeLab/Fishcake-Tokenomics/blob/main/NFT%20PASS%20.pdf)
 
+### 4. Fishcake Smart Contracts
+Our smart contracts are the backbone of the Fishcake ecosystem, facilitating secure, transparent transactions without intermediaries. These contracts govern our tokenomics, including the distribution and redemption processes for Fishcake Coin (FCC), and ensure that every event transaction and mining is executed according to predefined rules.
+-[Fishcake Smart Contracts] (https://github.com/FishcakeLab/fishcake-contracts)
+
+### 5. Fishcake Service
+Complementing our smart contracts, our service codes include all necessary scripts and algorithms that make the Fishcake platform user-friendly and efficient. These codes cover various functionalities from user interactions within the app to the real-time tracking and analysis of campaign performances.
+-[Fishcake Service codes](https://github.com/FishcakeLab/fishcake-service)
+
 ## How to Use This Repository
 
 This repository is structured to help you find information efficiently:
