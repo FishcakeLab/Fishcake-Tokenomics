@@ -28,8 +28,8 @@ Explore the detailed structure of Fishcake Coin (FCC) and understand the underly
 Get an introduction to the Fishcake platform, including its purpose, the problems it solves, and how it benefits both businesses and consumers within the decentralized economy.
 - [Fishcake Introduction (PDF)](https://github.com/FishcakeLab/Fishcake-Tokenomics/blob/main/Fishcake%20Introduction.pdf)
 
-### 3. NFT Pass Introduction
-Learn about the Fishcake NFT passes, their roles within the platform, and how they enhance user interaction and rewards. This guide is crucial for understanding how to engage with and benefit from NFTs on the Fishcake platform.
+### 3. Fishcake NFT Pass Introduction
+Learn about the Fishcake NFT Event pass designs, their roles within the platform, and how they enhance user interaction and mining rewards. This guide is crucial for understanding how to engage with and benefit from NFT pass on the Fishcake platform.
 - [NFT Pass Introduction (PDF)](https://github.com/FishcakeLab/Fishcake-Tokenomics/blob/main/NFT%20PASS%20.pdf)
 
 
