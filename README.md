@@ -32,11 +32,16 @@ Get an introduction to the Fishcake platform, including its purpose, the problem
 Learn about the Fishcake NFT passes, their roles within the platform, and how they enhance user interaction and rewards. This guide is crucial for understanding how to engage with and benefit from NFTs on the Fishcake platform.
 - [NFT Pass Introduction (PDF)](https://github.com/FishcakeLab/Fishcake-Tokenomics/blob/main/NFT%20PASS%20.pdf)
 
-### 4. Fishcake Smart Contracts
+
+### 4. Why Fishcake Pitch Deck
+Explore our "Why Fishcake" pitch deck to discover why Fishcake is the future of web3 tokenized marketing, where every user and investor can partake in a transparent, cutting-edge web3 ecosystem. chekout compelling reasons Fishcake is the revolutionary platform the web3 industry has been anticipating. "Why Fishcake" will guide you through the myriad benefits of our tokenized economy, illustrating how it empowers local businesses and event organizers while ensuring transparency and traceability through open-sourced on-chain smart contracts.
+-  [Why Fishcake](https://github.com/FishcakeLab/fishcake-Tokenomics/blob/main/Why%20Fishcake.pdf)
+
+### 5. Fishcake Smart Contracts
 Our smart contracts are the backbone of the Fishcake ecosystem, facilitating secure, transparent transactions without intermediaries. These contracts govern our tokenomics, including the distribution and redemption processes for Fishcake Coin (FCC), and ensure that every event transaction and mining is executed according to predefined rules.
 -  [Fishcake Smart Contracts](https://github.com/FishcakeLab/fishcake-contracts)
 
-### 5. Fishcake Service
+### 6. Fishcake Service
 Complementing our smart contracts, our service codes include all necessary scripts and algorithms that make the Fishcake platform user-friendly and efficient. These codes cover various functionalities from user interactions within the app to the real-time tracking and analysis of campaign performances.
 -  [Fishcake Service codes](https://github.com/FishcakeLab/fishcake-service)
 
