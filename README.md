@@ -34,7 +34,7 @@ Learn about the Fishcake NFT Event pass designs, their roles within the platform
 
 
 ### 4. Why Fishcake Pitch Deck
-Explore our "Why Fishcake" pitch deck to discover why Fishcake is the future of web3 tokenized marketing, where every user and investor can partake in a transparent, cutting-edge web3 ecosystem. chekout compelling reasons Fishcake is the revolutionary platform the web3 industry has been anticipating. "Why Fishcake" will guide you through the myriad benefits of our tokenized economy, illustrating how it empowers local businesses and event organizers while ensuring transparency and traceability through open-sourced on-chain smart contracts.
+Explore our "Why Fishcake" pitch deck to discover why Fishcake is the future of web3 dApp development direction, where every user and investor can partake in a transparent, cutting-edge web3 ecosystem. chekout compelling reasons Fishcake is the revolutionary platform the web3 industry has been anticipating. "Why Fishcake" will guide you through the myriad benefits of our tokenized economy, illustrating how it empowers local businesses and event organizers while ensuring transparency and traceability through open-sourced on-chain smart contracts.
 -  [Why Fishcake](https://github.com/FishcakeLab/fishcake-Tokenomics/blob/main/Why%20Fishcake.pdf)
 
 ### 5. Fishcake Smart Contracts
