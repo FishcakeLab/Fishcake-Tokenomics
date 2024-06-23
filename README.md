@@ -6,7 +6,7 @@
 
 Welcome to the official repository for Fishcake project documentation! Here, you will find comprehensive guides and whitepapers that detail the workings of the Fishcake ecosystem, including our innovative tokenomics, platform functionality, and NFT Pass mining.
 
-Fishcake is an open-source Web3 initiative dedicated to enhancing local economies through blockchain. With smart contracts and front-end code open for public review and audited for trust and transparency, we empower businesses and customers to interact directly on tokenized marketing!
+Fishcake is an open-source Web3 initiative dedicated to enhancing tokenized economies through incentive-based campaigns. With smart contracts and front-end code open for public review and audited for trust and transparency, we empower businesses and customers to interact directly on tokenized marketing!
 
 **Fishcake Coin (FCC) Highlights**:
 
