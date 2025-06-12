@@ -32,7 +32,7 @@ Get an introduction to the Fishcake platform, including its purpose, the problem
 
 ### 3. Fishcake Essentials
 A streamlined overview of the core components of the Fishcake ecosystem:FCC (Fishcake Coin)， Fishcake Event Execution Architecture, Fishcake NFT System, PoW, PoS, and Fischake Leaderboard system 
--  [Why Fishcake](https://github.com/FishcakeLab/fishcake-Tokenomics/blob/main/Fishcake%20Essentials.pdf)
+-  [Fishcake Essentials](https://github.com/FishcakeLab/fishcake-Tokenomics/blob/main/Fishcake%20Essentials.pdf)
   
 ### 4. Fishcake Smart Contracts
 Our smart contracts are the backbone of the Fishcake ecosystem, facilitating secure, transparent transactions without intermediaries. These contracts govern our tokenomics, including the distribution and redemption processes for Fishcake Coin (FCC), and ensure that every event transaction and mining is executed according to predefined rules.
