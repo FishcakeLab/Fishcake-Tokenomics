@@ -6,13 +6,15 @@
 
 Welcome to the official repository for Fishcake project documentation! Here, you will find comprehensive guides and whitepapers that detail the workings of the Fishcake ecosystem, including our innovative tokenomics, platform functionality, and NFT Pass mining.
 
-Fishcake is an open-source Web3 initiative dedicated to enhancing tokenized economies through incentive-based campaigns. With smart contracts and front-end code open for public review and audited for trust and transparency, we empower businesses and customers to interact directly on tokenized marketing!
+Fishcake is an open-source Web3 initiative dedicated to enhancing tokenized economies through incentive-based campaigns. With smart contracts and front-end code open for public review and audited for trust and transparency, we empower businesses and customers to interact directly on tokenized marketing and web3 loyalty management!
 
 **Fishcake Coin (FCC) Highlights**:
 
--**Redemption Pool**: Our redemption pool maintains a minimum floor price of USDT to FCC, providing FCC holders with confidence in the token's enduring value, join Fishcake ecosystem as a real shareholder. 
+-**PoW Mining**: Engage in the ecosystem and mine FCC tokens through participation – a dynamic incentive system supporting growth and sustainability.
 
--**Mining Feature**: Engage in the ecosystem and mine FCC tokens through participation – a dynamic incentive system supporting growth and sustainability.
+-**PoS Staking**: Stake your FCC tokens to earn passive rewards over time. This Proof-of-Stake layer enhances long-term engagement, strengthens network stability, and rewards holders for their continued support.
+
+-**Redemption Pool**: The Fishcake redemption pool is a USDT-backed reserve that anchors the value of FCC by maintaining a minimum floor price. This "burn-to-redeem" mechanism not only instills confidence in FCC's long-term stability but also enables holders to share in lifetime dividends generated from all Fishcake revenue streams — positioning each FCC holder as a real shareholder in the ecosystem. 
 
 Fishcake is where technology meets community, making token values real and tangible for everyone.
 
@@ -32,14 +34,19 @@ Get an introduction to the Fishcake platform, including its purpose, the problem
 Learn about the Fishcake NFT Event pass designs, their roles within the platform, and how they enhance user interaction and mining rewards. This guide is crucial for understanding how to engage with and benefit from NFT pass on the Fishcake platform.
 - [NFT Pass Introduction (PDF)](https://github.com/FishcakeLab/Fishcake-Tokenomics/blob/main/NFT%20PASS%20.pdf)
 
+### 4. Fishcake Smart Contracts
+Our smart contracts are the backbone of the Fishcake ecosystem, facilitating secure, transparent transactions without intermediaries. These contracts govern our tokenomics, including the distribution and redemption processes for Fishcake Coin (FCC), and ensure that every event transaction and mining is executed according to predefined rules.
+-  [Fishcake Smart Contracts](https://github.com/FishcakeLab/fishcake-contracts)
 
-### 4. Why Fishcake Pitch Deck
+### 5. Fishcake Essentials
+A streamlined overview of the core components of the Fishcake ecosystem:FCC (Fishcake Coin)， Fishcake Event Execution Architecture, Fishcake NFT System, PoW, PoS, and Fischake Leaderboard system 
+-  [Why Fishcake](https://github.com/FishcakeLab/fishcake-Tokenomics/blob/main/Fishcake%20Essentials.pdf)
+  
+### 6. Why Fishcake Pitch Deck
 Explore our "Why Fishcake" pitch deck to discover why Fishcake is the future of web3 dApp development direction, where every user and investor can partake in a transparent, cutting-edge web3 ecosystem. chekout compelling reasons Fishcake is the revolutionary platform the web3 industry has been anticipating. "Why Fishcake" will guide you through the myriad benefits of our tokenized economy, illustrating how it empowers local businesses and event organizers while ensuring transparency and traceability through open-sourced on-chain smart contracts.
 -  [Why Fishcake](https://github.com/FishcakeLab/fishcake-Tokenomics/blob/main/Why%20Fishcake.pdf)
 
-### 5. Fishcake Smart Contracts
-Our smart contracts are the backbone of the Fishcake ecosystem, facilitating secure, transparent transactions without intermediaries. These contracts govern our tokenomics, including the distribution and redemption processes for Fishcake Coin (FCC), and ensure that every event transaction and mining is executed according to predefined rules.
--  [Fishcake Smart Contracts](https://github.com/FishcakeLab/fishcake-contracts)
+
 
 ### 6. Fishcake Service
 Complementing our smart contracts, our service codes include all necessary scripts and algorithms that make the Fishcake platform user-friendly and efficient. These codes cover various functionalities from user interactions within the app to the real-time tracking and analysis of campaign performances.
@@ -65,6 +72,8 @@ Fishcake is a Web3 platform that empowers local businesses and consumers to inte
 - **Tokenized Incentives**: Utilize Fishcake Coin (FCC) OR USDT to participate in and create marketing campaigns.
 - **NFT Integration**: Engage with the platform through unique NFT passes that offer additional benefits and functionalities.
 - **Decentralized Operations**: Operate within a platform that supports direct interactions without third-party interference.
+- **Blockchain-Backed Trust**: All interactions and rewards are verifiable on-chain, ensuring transparency and accountability.
+- **AI-Powered Tools**: Smart analytics and automation features help optimize campaign performance and user engagement.
 
 ## Disclaimer
 
